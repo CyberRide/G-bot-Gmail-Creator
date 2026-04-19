@@ -4,7 +4,7 @@
 **The Ultimate Automated Account Generation Suite**
 
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Windows%20(EXE)-lightgrey.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows%20|%20macOS%20|%20Linux-lightgrey.svg)
 ![License](https://img.shields.io/badge/License-Proprietary-red.svg)
 ![Security](https://img.shields.io/badge/Military--Grade-Security-success.svg)
 
@@ -19,7 +19,9 @@
 <img src="https://raw.githubusercontent.com/CyberRide/G-bot-Gmail-Creator/6a7bf0549b7d5a51ba9617d2a99c94d737e95b0b/img.png" alt="G-Bot Interface Preview" width="85%" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.5);">
 
 ### 🎥 Live Engine Demonstration
-https://github.com/CyberRide/G-bot-Gmail-Creator/raw/main/output.mp4
+<video width="85%" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.5);" controls>
+  <source src="https://github.com/CyberRide/G-bot-Gmail-Creator/raw/main/output.mp4" type="video/mp4">
+</video>
 
 </div>
 
@@ -30,7 +32,7 @@ G-Bot Mass Creator is a proprietary, premium automation software locked behind a
 1. **Purchase your License Key securely via BoomFi:**
    👉 **[Click Here to Buy G-Bot Mass Creator License](https://pay.boomfi.xyz/3Ca65f6s5jWVDAjcqQW6OjxxosW)** 
 2. Upon confirming your payment, your unique License Key will be instantly emailed to you.
-3. **Run the `.exe` file** on your Windows machine.
+3. **Run the executable file** for your specific operating system (Windows `.exe`, macOS `.dmg`, or Linux `.AppImage`).
 4. An activation window will appear automatically on startup. **Paste your License Key** into the prompt to activate your machine and instantly unlock the full suite.
 
 ---
@@ -60,7 +62,7 @@ G-Bot Mass Creator is a proprietary, premium automation software locked behind a
 
 ## 🛠️ Usage & Configuration
 
-1. **Start the Application:** Run `g-bot.exe`.
+1. **Start the Application:** Launch the G-Bot executable for your specific OS.
 2. **Activate:** Input the license you purchased during the initial startup prompt.
 3. **Configure:** Head to the **Settings** tab and inject your respective API keys for Proxies, SMS solving, and Captcha routing.
 4. **Launch Tasks:** Head to the **Dashboard**, specify your thread count, optionally load previous account metadata, and click **Launch Threads**.
